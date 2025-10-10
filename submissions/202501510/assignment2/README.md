@@ -1,5 +1,12 @@
 # Assignment 2 — 객체지향 프로그래밍 심화
 
+## Assignment Submission
+
+- Student ID: 202501510
+- Name: Won Cho
+- Assignment: 2nd
+
+
 ## 📋 과제 개요
 
 이 과제는 6개의 문제로 구성되어 있으며, 각 문제는 파이썬의 객체지향 프로그래밍 핵심 개념을 다룹니다.
